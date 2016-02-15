@@ -1,5 +1,3 @@
-
-
 @import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400,700);
 
 /* Base16 Eighties Colorscheme by Chris Kempson (http://chriskempson.com) */
@@ -361,7 +359,6 @@ article.single figure {
   margin-bottom: 16px;
   margin-bottom: 1rem;
   padding: 1em;
-  background-color: #393939;
 }
 
 @media (max-width: 52em) {
